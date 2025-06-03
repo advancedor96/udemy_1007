@@ -15,3 +15,4 @@
 2025-06-01(Warsaw, Poland),
 2025-06-02(Warsaw, Poland),
 2025-06-03(Warsaw, Poland),
+2025-06-03(Warsaw, Poland),
