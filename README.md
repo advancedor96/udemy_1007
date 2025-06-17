@@ -27,3 +27,4 @@
 2025-06-14(Warsaw, Poland),
 2025-06-16(Warsaw, Poland),
 2025-06-17(Warsaw, Poland),
+2025-06-17(Warsaw, Poland),
