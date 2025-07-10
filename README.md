@@ -48,3 +48,4 @@
 2025-07-07(Warsaw, Poland),
 2025-07-08(Warsaw, Poland),
 2025-07-09(Warsaw, Poland),
+2025-07-10(Warsaw, Poland),
