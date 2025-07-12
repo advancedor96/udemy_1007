@@ -50,3 +50,4 @@
 2025-07-09(Warsaw, Poland),
 2025-07-10(Warsaw, Poland),
 2025-07-11(Warsaw, Poland),
+2025-07-12(Warsaw, Poland),
