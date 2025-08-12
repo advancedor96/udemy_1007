@@ -80,3 +80,4 @@
 2025-08-07(Warsaw, Poland),
 2025-08-09(Warsaw, Poland),
 2025-08-11(Warsaw, Poland),
+2025-08-12(Warsaw, Poland),
