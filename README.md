@@ -92,3 +92,4 @@
 2025-08-23(Warsaw, Poland),
 2025-08-23(Taipei, Taiwan),
 2025-08-23(Taipei, Taiwan),
+2025-08-23(Warsaw, ),
