@@ -90,3 +90,4 @@
 2025-08-20(Warsaw, Poland),
 2025-08-21(Warsaw, Poland),
 2025-08-23(Warsaw, Poland),
+2025-08-23(Taipei, Taiwan),
