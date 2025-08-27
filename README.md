@@ -95,3 +95,4 @@
 2025-08-23(Warsaw, ),
 2025-08-25(Warsaw, Poland),
 2025-08-26(Warsaw, Poland),
+2025-08-27(Warsaw, Poland),
