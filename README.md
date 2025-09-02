@@ -100,3 +100,4 @@
 2025-08-30(Warsaw, Poland),
 2025-08-31(Warsaw, Poland),
 2025-08-31(Warsaw, Poland),
+2025-09-02(Warsaw, Poland),
