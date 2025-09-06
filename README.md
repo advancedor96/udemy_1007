@@ -106,3 +106,4 @@
 2025-09-05(Warsaw, Poland),
 2025-09-06(Warsaw, Poland),
 2025-09-07(Taipei, Taiwan),
+2025-09-06(Taipeiiiii, Taiwan),
