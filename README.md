@@ -109,3 +109,4 @@
 2025-09-06(Taipeiiiii, Taiwan),
 2025-09-07(Warsaw, Poland),
 2025-09-07(Warsaw, Poland),
+2025-09-08(Warsaw, ),
