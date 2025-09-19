@@ -133,3 +133,4 @@
 2025-09-17(Warsaw, ),
 2025-09-17(Warsaw, Poland),
 2025-09-18(Warsaw, Poland),
+2025-09-19(Warsaw, ),
